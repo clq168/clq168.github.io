@@ -22,7 +22,7 @@ repository               : "clq168/clq168.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/head.png"
+  avatar           : "head.png"
   name             : "longqing chen"
   pronouns         : # example: "she/her"  
   bio              : "a good man"
