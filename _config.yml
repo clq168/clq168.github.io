@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "clq"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "clq"
 description              : &description "personal description"
 url                      : https://clq168.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,14 +22,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "head.png"
+  avatar           : "images/head.png"
   name             : "longqing chen"
   pronouns         : # example: "she/her"  
   bio              : "a good man"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "China"
+  employer         : "Xiamen University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "31520241154496@stu.xmu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
